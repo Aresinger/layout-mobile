@@ -1,0 +1,171 @@
+/* Your styles here */
+
+
+html {font-size: 60%;}
+i{
+    background-color: white;
+    color:#25a2c3;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+hr{
+    color: rgb(208, 202, 202);
+    margin: 30px auto;
+    width: 200px;
+
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size:1.2rem ;
+    line-height:1.65 ;
+    background-position: center center;
+    letter-spacing: 1px;
+   
+    
+}
+*{box-sizing: border-box;}
+header{
+    background-color: black;
+}
+header h1{
+    color:#25a2c3 ;
+    line-height: 1;
+    font-size: 35px;
+    margin: auto auto;
+    text-align: center;
+    padding: 45px 45px 2px 45px;
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    color: #25a2c3;
+    line-height: 1;
+    font-size: 20px;
+    margin: auto auto;
+    text-align: center;
+    padding: 21px 45px 2px 45px;
+    font-family: 'Montserrat', sans-serif
+}
+
+p{
+    
+    line-height: 1.65;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px 40px;
+}
+#logo{
+    background-color: black;
+    height: 100px;
+    width: 150px;
+    margin: auto;
+}
+#logo1{
+   width: 150px;
+   padding: 20px 0px;
+  
+}
+#div_header{
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    width: 100%;
+}
+button{
+    padding: 10px 30px;
+    background-color: #f04c2f;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+#notebook{
+    width: auto;
+    height: 100%;
+    margin-left: -50px;
+    padding-left: 50px;
+}
+#div_img{
+    background-image: url(../images/notebook.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+   margin: auto;
+}
+#div_red{
+    background-color: orangered;
+}
+#div_red h1 , #div_red p, #div_red cite{
+    color: white
+}
+
+#div_red h1{
+    font-size: 28px;
+}
+.contenitore{
+    margin: 15px auto;
+    border: solid 2px #c8e7f0;
+    width: 350px;
+    border-radius: 5px;
+}
+
+.contenitore img{
+    width: 347px;
+}
+
+#div_button{
+    width: 120px;
+    margin: auto;
+}
+
+.centro{
+    width: 300px;
+    margin: auto;
+}
+blockquote p {
+    margin: auto;
+    font-style: italic;
+    
+}
+
+blockquote{
+    padding: 15px 0px;
+}
+
+cite{
+    display: block;
+    margin: auto;
+    width: 100px;
+}
+#cite1{
+    font-size: 15px;
+}
+#div_blue {
+    background-color: #25a2c3;
+    color: white;
+    padding: 20px 0px ;
+}
+#div_blue h1{
+    color: white;
+    padding: 15px 0px;
+    font-size: 32px;
+}
+#div_blue a{
+    color:#c8e7f0;
+}
+
+#div_blue p{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+address{
+    width: 231px;
+    margin: auto;
+    font-size: 12px;
+}
